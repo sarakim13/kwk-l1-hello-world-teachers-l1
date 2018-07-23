@@ -3,6 +3,6 @@ puts "Hello World!"
 
 puts "Whats your name?"
 
-name = gets.chomp!
+name = gets
 
 puts "hello #{name}"
